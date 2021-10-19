@@ -1,5 +1,5 @@
-#Modelado y Programación
-####Objetivo del curso: Diseñar programas de mandera eficiente y escalable haciendo uso de patrones de diseño.
+# Modelado y Programación
+#### Objetivo del curso: Diseñar programas de mandera eficiente y escalable haciendo uso de patrones de diseño.
 
 ##Prácticas
 1.- Implementación de los patrones Strategy y Observer simulando diferentes servicios y sus clientes

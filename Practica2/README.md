@@ -50,8 +50,9 @@ Ahora sí, el robot cocina la hamburguesa, después vuelve al estado de suspendi
 
 ### Diagrama de clases
 
-![](https://github.com/Erickmarquez7/ModeladoYProgramacion/blob/master/Practica02%20State%2C%20Template%2C%20Iterator/Diagrama%20de%20clases.png)
+![](Diagrama-de-clases.png)
+
 
 ### Diagrama de estados
 
-![](https://github.com/Erickmarquez7/ModeladoYProgramacion/blob/master/Practica02%20State%2C%20Template%2C%20Iterator/Diagrama%20de%20estados.png)
+![](Diagrama-de-estados.png)

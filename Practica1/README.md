@@ -44,4 +44,4 @@ Al final de cada mes se muestra el cliente y su estado de cuenta.
 
 ### Diagrama de clases
 
-![](https://github.com/Erickmarquez7/ModeladoYProgramacion/blob/master/Practica01:%20Strategy%20y%20Observer/Diagrama.png)
+![](Diagrama.png)

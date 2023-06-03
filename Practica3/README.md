@@ -34,4 +34,4 @@ Y ejecutada con
 
 ### Diagrama de clases
 
-![](https://github.com/Erickmarquez7/ModeladoYProgramacion/blob/master/Practica03%20Decorator%20y%20Adapter/Diagrama.png)
+![](Diagrama.png)

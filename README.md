@@ -3,7 +3,7 @@
 Diseño de programas de manera eficiente y escalable haciendo uso de patrones de diseño.
 
 ## Prácticas
-1. Strategy y Observer
-2. Iterator, State y Template
-3. Decorator y Adapter
-4. Abstract Factory
+1. [Strategy y Observer](Practica1/)
+2. [Iterator, State y Template](Practica2/)
+3. [Decorator y Adapter](Practica3/)
+4. [Abstract Factory](Practica4/)

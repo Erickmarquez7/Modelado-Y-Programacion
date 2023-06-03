@@ -43,4 +43,4 @@ Y ejecutada con
 
 ### Diagrama de clases
 
-![](https://github.com/Erickmarquez7/ModeladoYProgramacion/blob/master/Practica04%20Abstract%20factory/diagrama.png)
+![](diagrama.png)
